@@ -2,8 +2,7 @@
 
 FORM INPUT DAN OUTPUT
 
-<img width="960" alt="2023-11-15" src="https://github.com/Hafidza1/Lab7Web/assets/115520666/2e605602-85be-4bfa-bfba-f4d944faa8c7">
-
+<img width="960" alt="2023-11-16" src="https://github.com/Hafidza1/Lab7Web/assets/115520666/2a0f4742-a57e-4a49-8318-ae2a890f74e9">
 
 
 
